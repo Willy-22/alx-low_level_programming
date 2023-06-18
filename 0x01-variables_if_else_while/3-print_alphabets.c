@@ -3,12 +3,13 @@
 /**
   * main - print the alphabet
   *
-  * Return 0 success
+  * Return: 0 (succes)s
  */
 
 int main(void)
 {
 	char e;
+
 	char b;
 
 	e = 'a';
