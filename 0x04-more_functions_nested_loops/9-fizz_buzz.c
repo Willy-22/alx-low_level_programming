@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
-  * main - print 1 to 100 for the multiples 3
-  * print fizz, multiples of 5 buzz for both
+  * main - print 1 to 100 but for the multiples of
+  * 3 print fizz, multiples of 5 buzz for both
   * print fizzbuzz.
   * Return: 0 (success)
  */
@@ -28,7 +28,7 @@ int main(void)
 		}
 		else if (i == 1)
 		{
-			printf(" %d", i);
+			printf("%d", i);
 		}
 		else
 		{
